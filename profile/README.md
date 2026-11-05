@@ -76,5 +76,5 @@
 ---
 
 <div align="center">
-  <sub>Proyecto de Grado · Universidad Católica del Uruguay · 2025</sub>
+  <sub>Proyecto de Grado · Universidad Católica del Uruguay · 2026</sub>
 </div>
